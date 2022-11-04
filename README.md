@@ -9,8 +9,8 @@
 </h2>
 
 # ❗ Important
-The project has been moved to xTech organization.
-To view the project click here.
+The project has been moved to [xTech](https://github.com/xTechSoftware) organization.
+To view the project [click here](https://github.com/xTechSoftware/xQuest).
 
 # 📝 xTechSoftware
-For more open-sourced projects and softwares check out xTechSoftware!
+For more open-sourced projects and softwares check out [xTechSoftware](https://github.com/xTechSoftware)!
